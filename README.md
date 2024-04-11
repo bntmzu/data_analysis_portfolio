@@ -1,6 +1,6 @@
 # Portfolio: Data Analyst
 ## About Me
-Hello! My name is Kate, and I am an aspiring data analyst. In this repository, you can find some of my projects that have been completed during my studies and practice.
+Hi! My name is Kate and my role involves assisting companies and researchers in analyzing and visualizing their datasets. I am knowledgeable in various data science processes, including data preprocessing, applying statistical methods, and data visualization. In this repository, you will find a selection of my projects that were completed during my academic studies and ongoing practice.
 <br>
 
 ## Skills and Technologies
