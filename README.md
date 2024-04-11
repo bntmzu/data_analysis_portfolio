@@ -26,4 +26,8 @@ Hello! My name is Kate, and I am an aspiring data analyst. In this repository, y
 <li>Data Analysis: Employed statistical tools to analyze trends and patterns in the data, ensuring all calculations were accurate and reflective of real-world behaviors.
 <li>Visualization: Created visual representations of data trends to better understand the dynamics of student balances and to facilitate easier reporting and decision-making.<p>
 > <a href="https://1drv.ms/x/c/ab6eb168c104233f/ET8jBMFosW4ggKsTJgAAAAAB3AWFkXf8XxA_VLDfkeRmGQ?e=N79Wcv">Project link</a>
-  
+<p>Conclusions:<p>
+<ol>
+  <li>This project offered crucial insights into student behavior and their engagement with lessons on the educational platform. By identifying the specific times when students are most likely to purchase and complete lessons, along with pinpointing potential engagement issues with the content, we can refine our strategies to improve the overall learning experience. Looking ahead, we could consider revising course materials in response to student feedback, optimizing content delivery to align with different seasonal patterns, and capitalizing on promotional periods to increase lesson completion rates.</li>
+</ol>
+<br>   
