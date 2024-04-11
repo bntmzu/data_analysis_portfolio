@@ -5,7 +5,7 @@ Hello! My name is Kate, and I am an aspiring data analyst. In this repository, y
 
 ## Skills and Technologies
 - Data Analysis Tools: ``SQL``, ``Excel``
-- Programming Languages and Libraries: ``Python``, ``Pandas``, ``NumPy``, ``math``
+- Programming Languages and Libraries: ``Python``, ``Matlab``, ``Pandas``, ``NumPy``, ``math``
 - Database Management Systems: ``MySQL``, ``PostgreSQL``
 - Data Visualization Tools: ``PowerBi``, ``Matplotlib``, ``seaborn``
 - Machine Learning Tools: ``scikit-learn``, ``TensorFlow``
