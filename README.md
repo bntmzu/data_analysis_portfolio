@@ -54,3 +54,13 @@ The project was approached by initially gathering and cleaning the necessary dat
 <p>Conclusion 4: The estimation model for required observations proved essential for planning future A/B tests, ensuring that each test is backed by sufficient data to yield statistically reliable results.<p>
 </ol>
 <br>  
+
+<p> Project 3: User Retention Analysis Across Marketing Channels in Power BI</p>
+<p> Overview: <p>This project involved creating a comprehensive visualization report to analyze user retention metrics across various marketing channels, with a particular focus on Google due to its significant share of our advertising budget. The goal was to assess the quality of traffic each channel generates, particularly looking at retention rates, and to determine if larger channels are diluting the quality of the traffic.<p>
+<p>Conclusion:<p>
+The visual report successfully highlighted key insights into user behavior and retention across channels. It provided clear evidence on which channels perform best in terms of retaining users and how channel scale impacts user engagement and retention.
+<p>
+> <a href="https://github.com/bntmzu/data_portfolio/blob/10a5390be79d4f6ef6712e29b5fd4ad3570fe425/Data_Vizualization_Retention.pbix">Project link</a>
+
+</ol>
+<br>  
