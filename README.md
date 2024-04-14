@@ -60,13 +60,24 @@ The project was approached by initially gathering and cleaning the necessary dat
 <p>Conclusion:<p>
 The visual report successfully highlighted key insights into user behavior and retention across channels. It provided clear evidence on which channels perform best in terms of retaining users and how channel scale impacts user engagement and retention.
 <p>
-> <a href="https://github.com/bntmzu/data_portfolio/blob/10a5390be79d4f6ef6712e29b5fd4ad3570fe425/Data_Vizualization_Retention.pbix">Project link</a>
+> <a href="https://github.com/bntmzu/data_analysis_portfolio/blob/bb5943c9e3635d5789421c7db81f7a9ea973e948/Data_Vizualization_Retention.pbix">Project link</a>
 </ol>
 <br>  
 
 <p> Project 4: Client Data Architecture for Optimized Analytics</p>
-<p> Overview: <p>In my role, I was tasked with developing a streamlined architecture to optimize the scorecard process, facilitating the collection and prediction of data for our data scientists. The central element of this architecture was the Client class, designed to systematically manage and process client data.<p>
+<p> Overview: <p>In my role, I was tasked with developing a streamlined architecture to optimize the scorecard process, facilitating the collection and prediction of data for data scientists. The central element of this architecture was the Client class, designed to systematically manage and process client data.<p>
 <p>Conclusion:<p>
 The class includes a constructor to initialize essential client attributes such as first name, last name, year of birth, and gender, along with dictionaries that store information about all of the client's credits. The developed methods of the class allow for the aggregation of data on payments, the total number and volume of credits issued, the percentage of credits paid, as well as the largest credit ever issued and the largest outstanding credit balance. This data structure significantly simplifies the handling of client information and enhances the efficiency of predictive models.
 <p>
 > <a href="https://github.com/bntmzu/data_analysis_portfolio/blob/72508307451cc20d21a8c1bb70a7291b0bcea1d6/Client%20Data%20Architecture%20for%20Optimized%20Analytics.ipynb">Project link</a>
+</ol>
+<br> 
+
+<p> Project 5: Titanic: Machine Learning and Data Visualization</p>
+<p> Overview: <p>This project conducts a thorough analysis of the Titanic dataset to unveil key insights into the factors influencing passenger survival. The study integrates advanced data visualization in Power BI and machine learning using Python, focusing on predicting survival outcomes based on various passenger attributes.<p>
+<p>Conclusion:<p>
+Data Visualization: Leveraged Power BI to create interactive visualizations, showcasing the distribution of passengers by gender, class, and fare, along with their survival rates. This approach provided a clear visual representation of the data, helping to highlight crucial factors that impacted survival chances.
+Predictive Modeling: Implemented a Decision Tree Classifier to predict survival outcomes. The model used passenger data such as ticket class (Pclass), gender (Sex), and fare. It was trained and validated using a split of the dataset to ascertain its predictive accuracy.
+<p>
+Technologies Used: Power BI, Python (Pandas, Scikit-learn, Jupyter Notebook).<p>
+> <a href="https://1drv.ms/f/c/ab6eb168c104233f/Emw9wpXUCZ1GoHFdPMOJmIgBqBhTrLRT2m_yd6b9Si7VtA?e=ZcksGH">Project link</a>
